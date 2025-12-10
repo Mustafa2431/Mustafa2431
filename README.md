@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br><br>An AR-based Furniture Store system using React.js, Django, MongoDB, and Android Studio (Java), along with multiple micro-projects like hand-gesture LED control, car automation using Arduino, and AI testing projects.<br><br>👯 I’m looking to collaborate on<br><br>Projects involving Augmented Reality, Android development, AI/ML integrations, Java-based systems, and cool open-source tools where real innovation > hype.<br><br>🤝 I’m looking for help with<br><br>Optimizing AR object rendering, building scalable backend APIs, and polishing full-stack architecture for production-level performance.<br><br>🌱 I’m currently learning<br><br>Advanced React.js, Django REST Framework, MongoDB, and deeper concepts in AI, AR, and embedded systems (Arduino + sensors).<br><br>💬 Ask me about<br><br>Android development, AR projects, Java, Python, micro-projects, system design basics, or literally anything tech — I love breaking things down simply.<br><br>⚡ Fun fact<br><br>I can switch from coding Arduino sensors to writing a whole project report to debugging React in the same hour — powered purely by vibes and determination.
+🔭 💻 CSE @ WCE Sangli | Full Stack Dev in Progress | React.js • Java • Python | Passionate about building real-world web & software solutions
 
 
 # 💻 Tech Stack:
