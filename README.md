@@ -1,5 +1,5 @@
 # About Me:
-🔭 💻 CSE @ WCE Sangli | <br>Full Stack Dev in Progress | <br>React.js • Java • Python | <br>Passionate about building real-world web & software solutions
+🔭 💻 CSE @ WCE Sangli | <br>Full Stack Dev in Progress | <br>Passionate about building real-world web & software solutions
 
 
 # 💻 Tech Stack:
