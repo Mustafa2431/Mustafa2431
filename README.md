@@ -1,7 +1,6 @@
 # About Me:
 🔭 💻 **Computer Science & Engineering Student @ WCE Sangli** | <br>
 **Full Stack Developer (In Progress)** | <br>
-**Mustafa Shakil Shikalgar** | <br>
 Passionate about building **real-world web & software solutions** with a focus on **scalable and efficient systems**
 
 # 💻 Tech Stack:
