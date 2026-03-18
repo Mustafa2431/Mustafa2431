@@ -26,13 +26,6 @@
 
 ---
 
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa2431&layout=compact&theme=tokyonight" />
-</p>
-
----
 ## 💻 Tech Stack
 
 <p align="center">
