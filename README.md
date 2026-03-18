@@ -33,41 +33,29 @@
 </p>
 
 ---
-
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
+<p align="center">
 
-### 🌐 Web Development
-![HTML](https://skillicons.dev/icons?i=html)
-![React](https://skillicons.dev/icons?i=react)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![PHP](https://skillicons.dev/icons?i=php)
-![Django](https://skillicons.dev/icons?i=django)
+### 👨‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 
-### 🗄️ Databases
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
+### 🌐 Web Development  
+<img src="https://skillicons.dev/icons?i=html,react,nodejs,php,django" />
 
-### 🤖 AI / ML
-![NumPy](https://skillicons.dev/icons?i=numpy)
-![Pandas](https://skillicons.dev/icons?i=pandas)
-![PyTorch](https://skillicons.dev/icons?i=pytorch)
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
-### ⚙️ Tools & Platforms
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Arduino](https://skillicons.dev/icons?i=arduino)
+### 🤖 AI / ML  
+<img src="https://skillicons.dev/icons?i=numpy,pandas,pytorch,sklearn" />
 
-### 🎨 Design
-![Figma](https://skillicons.dev/icons?i=figma)
-![Canva](https://skillicons.dev/icons?i=canva)
+### ⚙️ Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,docker,arduino" />
+
+### 🎨 Design  
+<img src="https://skillicons.dev/icons?i=figma,canva" />
+
+</p>
 
 ---
 
