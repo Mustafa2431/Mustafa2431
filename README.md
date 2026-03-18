@@ -37,22 +37,37 @@
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
-C | C++ | Java | Python  
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
 
-### 🌐 Web Dev
-HTML | React | Node.js | PHP | Django  
+### 🌐 Web Development
+![HTML](https://skillicons.dev/icons?i=html)
+![React](https://skillicons.dev/icons?i=react)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![PHP](https://skillicons.dev/icons?i=php)
+![Django](https://skillicons.dev/icons?i=django)
 
 ### 🗄️ Databases
-MySQL | MongoDB | SQLite  
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![SQLite](https://skillicons.dev/icons?i=sqlite)
 
-### 🤖 AI/ML
-NumPy | Pandas | scikit-learn | PyTorch  
+### 🤖 AI / ML
+![NumPy](https://skillicons.dev/icons?i=numpy)
+![Pandas](https://skillicons.dev/icons?i=pandas)
+![PyTorch](https://skillicons.dev/icons?i=pytorch)
 
-### ⚙️ Tools
-Git | GitHub | Docker | Arduino  
+### ⚙️ Tools & Platforms
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Arduino](https://skillicons.dev/icons?i=arduino)
 
 ### 🎨 Design
-Figma | Canva  
+![Figma](https://skillicons.dev/icons?i=figma)
+![Canva](https://skillicons.dev/icons?i=canva)
 
 ---
 
