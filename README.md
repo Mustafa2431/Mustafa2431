@@ -47,7 +47,7 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 
 ### 🤖 AI / ML  
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
